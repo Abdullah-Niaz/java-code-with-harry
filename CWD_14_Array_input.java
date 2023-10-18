@@ -1,7 +1,5 @@
 package CWD;
-
 import java.util.Scanner;
-
 public class CWD_14_Array_input {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
