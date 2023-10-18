@@ -1,5 +1,4 @@
 package CWD;
-
 public class CWD_09_While_Loop {
     public static void main(String[] args){
         int i = 0;
