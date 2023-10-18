@@ -1,7 +1,5 @@
 package CWD;
-
 import java.util.Scanner;
-
 public class CWD_15_Multi_Dimensional_Array {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
