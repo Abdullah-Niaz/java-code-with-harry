@@ -1,7 +1,5 @@
-package CWD;
-
+`package CWD;
 import java.util.Scanner;
-
 public class CWD_16_Accessing_Multi_Dimentional_Array {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
