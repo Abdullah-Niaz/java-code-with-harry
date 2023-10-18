@@ -1,7 +1,5 @@
 package CWD;
-
 import loops.forloop;
-
 public class CWD_12_Continue {
     public static void main(String [] args){
         for(int i = 0; i <= 30;i++ ){
