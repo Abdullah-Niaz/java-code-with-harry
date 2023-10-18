@@ -1,7 +1,5 @@
 package CWD;
-
 import loops.for_each;
-
 public class CWD_13_Array {
     public static void main(String[]args){
         // Declaration & initilizatino
